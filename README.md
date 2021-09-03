@@ -4,8 +4,6 @@
   bundle install
   bundle exec rspec
 ```
-* BBD (behavior driven development);
-
 # TDD is Test Driven Development. 
 *This means writing a test that fails because the specified functionality doesn't exist, then writing the simplest code that can make the test pass, then refactoring to remove duplication, etc. You repeat this Red-Green-Refactor loop over and over until you have a complete feature.
 
